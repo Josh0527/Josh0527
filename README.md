@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sunkanmi Joshua</h1>
-<h3 align="center">Welcome Hub and a page made for 1s and 0s as building block for the future. Ride with me.</h3>
+<h1 align="center">Hi 👋, I'm Sunkanmi  Temidayo</h1>
+<h3 align="center">Welcome to my Hub and a page made for 1s and 0s as the building block for the future. Ride with me.</h3>
 <img align="center" alt="Coding" width="1080" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
 
 <p align="left"> <a href="https://twitter.com/tech_hashiraa" target="blank"><img src="https://img.shields.io/twitter/follow/tech_hashiraa?logo=twitter&style=for-the-badge" alt="tech_hashiraa" /></a> </p>
