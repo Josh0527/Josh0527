@@ -9,12 +9,9 @@
 - 👯 I’m looking to collaborate on **machine learning projects**
 
 - 🤝 I’m looking for help with **your data tasks**
-
-- 📝 I regularly write articles on [https://medium.com/@stemidayo320](https://medium.com/@stemidayo320)
-
 - 💬 Ask me about **python, Sql and ML models**
 
-- 📫 How to reach me **tojosh0527@gmail.com**
+- 📫 How to reach me **tojoshua0527@gmail.com**
 
 - ⚡ Fun fact **"I love anime"**
 
