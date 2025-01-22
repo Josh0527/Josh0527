@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/tech_hashiraa" target="blank"><img src="https://img.shields.io/twitter/follow/tech_hashiraa?logo=twitter&style=for-the-badge" alt="tech_hashiraa" /></a> </p>
 
-- 🌱 I’m currently learning **reinforcement learning and neural networks**
+- 🌱 I’m currently interested in **Neural networks**
 
 - 👯 I’m looking to collaborate on **machine learning projects**
 
-- 🤝 I’m looking for help with **your data tasks**
+- 🤝 I’m looking to help with **your data tasks**
 - 💬 Ask me about **python, Sql and ML models**
 
 - 📫 How to reach me **tojoshua0527@gmail.com**
